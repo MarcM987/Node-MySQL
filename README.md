@@ -22,3 +22,4 @@ HW10
   * Once the update goes through, show the customer the total cost of their purchase.
 
 ![alt text](https://github.com/MarcM987/Node-MySQL/blob/master/bamazon1.JPG?raw=true)
+![alt text](https://github.com/MarcM987/Node-MySQL/blob/master/bamazon2.JPG?raw=true)
