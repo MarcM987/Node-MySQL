@@ -1,6 +1,6 @@
 # Node-MySQL
 HW10
-## Instructions
+## Assignment Instructions
 ### Challenge #1: Customer View (Minimum Requirement)
 1. Create a MySQL Database called bamazon.
 2. Then create a Table inside of that database called products.
@@ -21,6 +21,17 @@ HW10
     * This means updating the SQL database to reflect the remaining quantity.
     * Once the update goes through, show the customer the total cost of their purchase.
 
-#### Program Run Images
+
+#### Usage Instructions & Program Summary
+This program displays the available stock for "bamazon" and allows a user to "purchase" items from this stock via item and quantity selection.
+If selected quantity entered is larger then it will not allow you to make that purchase and will exit.
+
+Based on the given table:
+* Select the item you want to purchase by entering its corresponding itemID.
+* Then enter the quantity in which you intend to purchase
+    * pressing enter here proceeds with the purchase
+* Your total is then displayed 
+
+##### Program Run Images
 ![alt text](https://github.com/MarcM987/Node-MySQL/blob/master/bamazon1.JPG?raw=true)
 ![alt text](https://github.com/MarcM987/Node-MySQL/blob/master/bamazon2.JPG?raw=true)
