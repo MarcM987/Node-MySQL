@@ -20,3 +20,5 @@ HW10
 8. However, if your store does have enough of the product, you should fulfill the customer's order.
   * This means updating the SQL database to reflect the remaining quantity.
   * Once the update goes through, show the customer the total cost of their purchase.
+
+![alt text](https://github.com/MarcM987/Node-MySQL/blob/master/bamazon1.JPG?raw=true)
