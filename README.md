@@ -21,5 +21,6 @@ HW10
     * This means updating the SQL database to reflect the remaining quantity.
     * Once the update goes through, show the customer the total cost of their purchase.
 
+#### Program Run Images
 ![alt text](https://github.com/MarcM987/Node-MySQL/blob/master/bamazon1.JPG?raw=true)
 ![alt text](https://github.com/MarcM987/Node-MySQL/blob/master/bamazon2.JPG?raw=true)
