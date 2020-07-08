@@ -1,5 +1,5 @@
 var mysql = require("mysql");
-var inquirier = require("inquirier");
+var inquirer = require("inquirer");
 
 var connection = mysql.createConnection({
     host: "localhost",
@@ -11,7 +11,7 @@ var connection = mysql.createConnection({
 
 connection.connect(function (err) {
     if (err) throw err;
-    console.log(connection.threadId);
+    console.log("Connection ThreadID: " + connection.threadId);
     displayProducts();
 });
 
